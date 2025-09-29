@@ -70,12 +70,12 @@ I have also **founded several startups** with presence in multiple countries, in
         <p>
           <a href="https://github.com/pucodev/omlg" target="_blank">
             <img
-              src="https://img.shields.io/badge/Github-8760db?style=for-the-badge&logo=github"
+              src="https://img.shields.io/badge/Github-ff7563?style=for-the-badge&logo=github"
             />
           </a>
           <a href="https://pucodev.github.io/omlg" target="_blank">
             <img
-              src="https://img.shields.io/badge/Website-8760db?style=for-the-badge&logo=google-chrome&logoColor=fff"
+              src="https://img.shields.io/badge/Website-ff7563?style=for-the-badge&logo=google-chrome&logoColor=fff"
             />
           </a>
         </p>
@@ -109,7 +109,7 @@ I have also **founded several startups** with presence in multiple countries, in
             target="_blank"
           >
             <img
-              src="https://img.shields.io/badge/Github-8760db?style=for-the-badge&logo=github"
+              src="https://img.shields.io/badge/Github-378ba5?style=for-the-badge&logo=github"
             />
           </a>
           <a
@@ -117,7 +117,7 @@ I have also **founded several startups** with presence in multiple countries, in
             target="_blank"
           >
             <img
-              src="https://img.shields.io/badge/Website-8760db?style=for-the-badge&logo=google-chrome&logoColor=fff"
+              src="https://img.shields.io/badge/Website-378ba5?style=for-the-badge&logo=google-chrome&logoColor=fff"
             />
           </a>
         </p>
