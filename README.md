@@ -88,6 +88,48 @@ I have also **founded several startups** with presence in multiple countries, in
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <h3 align="center">
+        <a href="https://github.com/pucodev/ulauncher-homepage" target="_blank"
+          >Ulauncher Homepage</a
+        >
+      </h3>
+      <div align="center">
+        <a href="https://github.com/pucodev/ulauncher-homepage" target="_blank"
+          ><img
+            src="https://github.com/pucodev/ulauncher-homepage/blob/develop/screenshots/ulauncher-homepage.png?raw=true"
+            width="100%"
+            alt="ulauncher-homepage"
+        /></a>
+        <p>
+          <a
+            href="https://github.com/pucodev/ulauncher-homepage"
+            target="_blank"
+          >
+            <img
+              src="https://img.shields.io/badge/Github-8760db?style=for-the-badge&logo=github"
+            />
+          </a>
+          <a
+            href="https://ext.ulauncher.io/-/github-pucodev-ulauncher-homepage"
+            target="_blank"
+          >
+            <img
+              src="https://img.shields.io/badge/Website-8760db?style=for-the-badge&logo=google-chrome&logoColor=fff"
+            />
+          </a>
+        </p>
+        <p>
+          🏠 <b>Extension for Ulauncher</b> that allows you to quickly
+          search and open services from your Homepage dashboard.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🛠 Tech Stack & Skills
