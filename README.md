@@ -59,9 +59,9 @@ I have also **founded several startups** with presence in multiple countries, in
       </div>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/pucodev/omlg" target="_blank">Oh My Logo Generator</a></h3>
+      <h3 align="center"><a href="https://pucodev.github.io/omlg" target="_blank">Oh My Logo Generator</a></h3>
       <div align="center">
-        <a href="https://github.com/pucodev/omlg" target="_blank"
+        <a href="https://pucodev.github.io/omlg" target="_blank"
           ><img
             src="https://github.com/pucodev/omlg/blob/develop/assets/omlg-generator.png?raw=true"
             width="100%"
