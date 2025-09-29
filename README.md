@@ -26,19 +26,83 @@ I have also **founded several startups** with presence in multiple countries, in
 
 ---
 
+## 🚀 My Open Source Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://pucodev.github.io/pucoui/" target="_blank">pucoui</a></h3>
+      <div align="center">
+        <a href="https://pucodev.github.io/pucoui/" target="_blank"
+          ><img
+            src="https://raw.githubusercontent.com/pucodev/pucoui/refs/heads/develop/assets/pucoui-showcase.png"
+            width="100%"
+            alt="pucoui"
+        /></a>
+        <p>
+          <a href="https://github.com/pucodev/pucoui" target="_blank">
+            <img
+              src="https://img.shields.io/badge/Github-8760db?style=for-the-badge&logo=github"
+            />
+          </a>
+          <a href="https://pucodev.github.io/pucoui" target="_blank">
+            <img
+              src="https://img.shields.io/badge/Website-8760db?style=for-the-badge&logo=google-chrome&logoColor=fff"
+            />
+          </a>
+        </p>
+        <p>
+          🪐 <b>A lightweight CSS styleguide library</b> to build consistent and
+          modern UIs with utilities and components. <br />
+          Minimal, flexible, and easy to integrate into any project.
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/pucodev/omlg" target="_blank">Oh My Logo Generator</a></h3>
+      <div align="center">
+        <a href="https://github.com/pucodev/omlg" target="_blank"
+          ><img
+            src="https://github.com/pucodev/omlg/blob/develop/assets/omlg-generator.png?raw=true"
+            width="100%"
+            alt="omlg"
+        /></a>
+        <p>
+          <a href="https://github.com/pucodev/omlg" target="_blank">
+            <img
+              src="https://img.shields.io/badge/Github-8760db?style=for-the-badge&logo=github"
+            />
+          </a>
+          <a href="https://pucodev.github.io/omlg" target="_blank">
+            <img
+              src="https://img.shields.io/badge/Website-8760db?style=for-the-badge&logo=google-chrome&logoColor=fff"
+            />
+          </a>
+        </p>
+        <p>
+          🌟 <b>Generate stunning logos from text</b> with customizable colors,
+          gradients & fonts. Download in SVG or PNG. Powered by Oh My Logo.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠 Tech Stack & Skills
 
 ### 💻 Frontend
 
-![Frontend Skills: react,vue,typescript,tailwind,html,css,js](https://skillicons.dev/icons?i=react,vue,typescript,tailwind,html,css,js&perline=4)
+![Frontend Skills: react,vue,typescript,tailwind,html,css,js](https://skillicons.dev/icons?i=react,vue,typescript,tailwind,html,css,js&perline=6)
 
 ### ⚙️ Backend
 
-![Backend Skills: nodejs,express,nestjs,django,flask,laravel,fastapi,postgresql,mysql](https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,laravel,fastapi,postgresql,mysql&perline=4)
+![Backend Skills: nodejs,express,nestjs,django,flask,laravel,fastapi,postgresql,mysql](https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,laravel,fastapi,postgresql,mysql&perline=6)
 
 ### ☁️ Infra & DevOps
 
-![Devops Skills: docker,kubernetes,aws,azure,gcp,cloudflare](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,cloudflare&perline=4)
+![Devops Skills: docker,kubernetes,aws,azure,gcp,cloudflare](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,cloudflare&perline=6)
 
 ### 🧠 Other Skills
 
